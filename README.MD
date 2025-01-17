@@ -74,11 +74,6 @@ The **Number Guessing Game** is a simple interactive application built using Pyt
 
 ---
 
-## Screenshots
-(Include screenshots of the application if possible.)
-
----
-
 ## Future Enhancements
 - Add difficulty levels with customizable number ranges.
 - Include a timer to measure how quickly the user guesses the number.
